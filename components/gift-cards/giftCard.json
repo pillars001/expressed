@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "rate": 250,
+      "isActive": true,
+      "name": "Apple Store Card $50 and above",
+      "termsOfTransaction": "Ensure no one is watching when you enter your card and submit on our platform"
+    },
+    {
+      "id": 2,
+      "rate": 200,
+      "isActive": true,
+      "name": "Apple iTunes Card $100 and above",
+      "termsOfTransaction": "Ensure no one is watching when you enter your card and submit on our platform"
+    },
+    {
+      "id": 3,
+      "rate": 250,
+      "isActive": true,
+      "name": "Google Play Card $25 and above",
+      "termsOfTransaction": "Ensure no one is watching when you enter your card and submit on our platform"
+    },
+    {
+      "id": 4,
+      "rate": 290,
+      "isActive": true,
+      "name": "Google Play Card $50 and above",
+      "termsOfTransaction": "Ensure no one is watching when you enter your card and submit on our platform"
+    },
+    {
+      "id": 5,
+      "rate": 300,
+      "isActive": true,
+      "name": "Amazon Store Card $50 and above",
+      "termsOfTransaction": "Ensure no one is watching when you enter your card and submit on our platform"
+    },
+    {
+      "id": 6,
+      "rate": 320,
+      "isActive": true,
+      "name": "eBay Store Card $50 and above",
+      "termsOfTransaction": "Ensure no one is watching when you enter your card and submit on our platform"
+    }
+  ]
+}

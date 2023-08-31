@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "firstName": "Adeleke",
+      "lastName": "Adeniji",
+      "country": "Nigeria",
+      "username": "eazygotyou"
+    },
+    {
+      "id": 2,
+      "firstName": "Oluwadamilola",
+      "lastName": "Adeniji",
+      "country": "Nigeria",
+      "username": "camsy"
+    },
+    {
+      "id": 3,
+      "firstName": "Folashade",
+      "lastName": "Adeniji",
+      "country": "Nigeria",
+      "username": "shade-l'omo"
+    }
+  ]
+}

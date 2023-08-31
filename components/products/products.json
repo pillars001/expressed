@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "HP Omen",
+      "description": "New and improved HP Omen from Hewlett Packard",
+      "price": 2500,
+      "sku": "87678iujjui987"
+    },
+    {
+      "id": 2,
+      "name": "HP Spectre",
+      "description": "New and improved HP Spectre from Hewlett Packard",
+      "price": 2000,
+      "sku": "87678iujhji987"
+    },
+    {
+      "id": 3,
+      "name": "HP Slate",
+      "description": "New and improved HP Slate from Hewlett Packard",
+      "price": 250,
+      "sku": "8767wehjjui987"
+    },
+    {
+      "id": 4,
+      "name": "Apple MacBook Pro M1",
+      "description": "New and improved MacBook Pro with faster processor M1 from Apple",
+      "price": 2500,
+      "sku": "876jghhjjui987"
+    },
+    {
+      "id": 5,
+      "name": "Apple iPad Pro",
+      "description": "New and improved iPad Pro from Apple",
+      "price": 2000,
+      "sku": "876jghhjjui987"
+    },
+    {
+      "id": 6,
+      "name": "Apple iPhone 12 Pro",
+      "description": "New and improved iPhone 12 Pro from Apple",
+      "price": 1000,
+      "sku": "876jghhjjui987"
+    }
+  ]
+}
